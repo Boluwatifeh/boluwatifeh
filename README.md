@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing the piano and listening to good sound. 
 -->
-<a href="https://app.daily.dev/boluwatifeh"><img src="https://api.daily.dev/devcards/0ea596a2d69b40dd99defb3e53fa5f05.png?r=vta" width="400" alt="Ogundeyi Boluwatife's Dev Card"/></a>
+<a href="https://app.daily.dev/boluwatifeh"><img src="https://github.com/boluwatifeh/boluwatifeh/blob/master/devcard.svg" width="400" width="400" alt="Ogundeyi Boluwatife's Dev Card"/></a>
